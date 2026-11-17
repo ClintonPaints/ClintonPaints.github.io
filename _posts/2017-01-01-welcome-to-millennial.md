@@ -54,7 +54,7 @@ These are original paintings by the artist Clinton Cartlton Carter, which featur
 
 <img width="5152" height="3864" alt="IMG_0117" src="https://github.com/user-attachments/assets/20867f69-c1a3-4e17-a8cb-31bcd687c29b" />
 <h5>Title: <i>Fun</i>. Contact for more information.</h5>
-<h6 class="available"><span>Available</span></h6>
+<h6 class="notavailable"><span>Reserved</span></h6>
 
   <hr>
 
