@@ -21,7 +21,7 @@ image: IMG_0103.JPG
 These are original paintings by the artist Clinton Cartlton Carter, which feature human figures. 
 
   <hr>
-
+![Man Looking](https://github.com/user-attachments/assets/f5d7b9a7-91f2-4037-9801-1d9ad72a973a)
 <img width="5152" height="3864" alt="IMG_0164" src="https://github.com/user-attachments/assets/f5d7b9a7-91f2-4037-9801-1d9ad72a973a" />
 <h5>Title: <i>Man looking</i>. Contact for more information. </h5>
 <h6 class="available"><span>Available</span></h6>
