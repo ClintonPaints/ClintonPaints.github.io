@@ -40,27 +40,25 @@ These are original paintings by the artist Clinton Cartlton Carter, which featur
 
   <h>
       
-![Victorian Lady](https://github.com/user-attachments/assets/d2b2d4d2-bc16-4fff-b9b5-e44b5e18874d)
+<img src="assets/img/IMG_0152.JPG">
 <h5>Title: <i>Victorian Lady</i>. Contact for more information.</h5>
 <h6 class="notavailable"><span>Reserved</span></h6>
 
   <hr>
 
-![Man](https://github.com/user-attachments/assets/492f0eae-a179-47d2-a21a-1948fb479c0f)
+<img src="assets/img/IMG_0150.JPG">
 <h5>Title: <i>Man</i>. Contact for more information.</h5>
 <h6 class="available"><span>Available</span></h6>
 
   <hr>
-  
-![Fun](https://github.com/user-attachments/assets/20867f69-c1a3-4e17-a8cb-31bcd687c29b)
+
+<img src="assets/img/IMG_0117.JPG">
 <h5>Title: <i>Fun</i>. Contact for more information.</h5>
 <h6 class="notavailable"><span>Reserved</span></h6>
 
   <hr>
   
 <img src="assets/img/IMG_0092.JPG">
-
-![Man Surfing](https://github.com/user-attachments/assets/d0a0b76b-d232-4bfa-adf0-9448c3582b42)
 <h5>Title: <i>Man Surfing</i>. Contact for more information.</h5>
 <h6 class="notavailable"><span>Reserved</span></h6>
 
