@@ -3,10 +3,10 @@ layout: post
 title: "People"
 author: "Clinton Carlton Carter"
 categories: documentation
-tags: [documentation,sample]
 image: IMG_0103.JPG
 ---
 
+tags: [documentation,sample]
 <style>
 .available span { 
     background-color: green; 
