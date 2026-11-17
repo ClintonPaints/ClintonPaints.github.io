@@ -58,6 +58,10 @@ These are original paintings by the artist Clinton Cartlton Carter, which featur
 
   <hr>
 
+![Man Looking](https://github.com/user-attachments/assets/f5d7b9a7-91f2-4037-9801-1d9ad72a973a)
+![Man Surfing](assets/img/IMG_0164.JPG)
+<img src="assets/img/IMG_0164.JPG">
+
 ![Man Surfing](https://github.com/user-attachments/assets/d0a0b76b-d232-4bfa-adf0-9448c3582b42)
 <h5>Title: <i>Man Surfing</i>. Contact for more information.</h5>
 <h6 class="notavailable"><span>Reserved</span></h6>
